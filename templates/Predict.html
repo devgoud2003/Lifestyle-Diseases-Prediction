@@ -1,0 +1,141 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+<title>Finding Psychological Instability </title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="../static/style.css"/>
+<script language="javascript">
+	function checkFields(f1) {
+		if(f1.t9.value.length==0) {
+			alert("Please Enter Age");
+			f1.t9.focus();
+			return false;
+		}
+	return true;
+}
+</script>
+</head>
+<div id="wrapper">
+	<div id="header">
+		<div id="logo">
+			<h3><font size="7" color="white">Life Style Disease Prediction </font></h3>
+		</div>
+		<div id="slogan">
+			
+		</div>
+	</div>
+	<div id="menu">
+		<ul>
+<li class="active"><a href="TrainML">Train ML Algorithms on Lifestyle Dataset</a></li>
+<li><a href="Predict">Predict Lifestyle Disease</a></li>
+<li><a href="AccuracyGraph">Accuracy Graph</a></li>
+<li><a href="index">Logout</a></li>
+			
+		</ul>
+		<br class="clearfix" />
+				</div>
+			
+	
+			<center>
+			<form name="f1" action="/PredictAction" method="post" OnSubmit="return checkFields(this);">
+<br/>
+   <h2 style="color: #000080;"><b> Psychological Instability Test</b></h2>
+   
+	<font size="" color="red"><center>{{ error }}</center></font>
+						
+						<table align="center" width="40" >
+			 <tr><td><font size="" color="#000080">Eating&nbsp;Habit</b></td>
+			 <td><select name="t1">
+				<option>-</option>	
+			 <option value="Excellent">Excellent</option>
+			 <option value="Overeating">Overeating</option>
+			 <option value="Eat's too quickly">Eat's too quickly</option>
+			 <option value="Emotional Eating">Emotional Eating</option>
+			 <option value="Night time Snacking">Night time Snacking</option>
+			 </select>
+			 </td></tr>
+
+			 <tr><td><font size="" color="#000080">Physical&nbsp;Activity</b></td>
+			 <td><select name="t2">
+				<option>-</option>	
+
+			 <option value="Regular Excercise">Regular Excercise</option>
+			 <option value="Irregular Excercise">Irregular Excercise</option>
+			 <option value="NoExcercise">No Excercise</option>
+			 </select>
+			 </td></tr>
+
+			 <tr><td><font size="" color="#000080">Your&nbsp;BMI</b></td>
+			 <td><select name="t3">
+				<option>-</option>	
+			 <option value="Normal">Normal</option>
+			 <option value="Increased">Increased</option>
+			 <option value="Decreased">Decreased</option>
+			 </select>
+			 </td></tr>
+
+			 <tr><td><font size="" color="#000080">Stress</b></td>
+			 <td><select name="t4">
+				<option>-</option>	
+			 <option value="Yes">Yes</option>
+			 <option value="No">No</option>
+			 </select>
+			 </td></tr>
+
+			 <tr><td><font size="" color="#000080">Sleep&nbsp;Condition</b></td>
+			 <td><select name="t5">
+				<option>-</option>
+			 <option value="Sound">Sound</option>
+			 <option value="Disturbed">Disturbed</option>
+			 <option value="Late-Night">Late-Night</option>
+			 </select>
+			 </td></tr>
+
+			 <tr><td><font size="" color="#000080">Smoking&nbsp;Habit</b></td>
+			 <td><select name="t6">
+				<option>-</option>
+			 <option value="Chain Smoker">Chain Smoker</option>
+			 <option value="Occasional Smoker">Occasional Smoker</option>
+			 <option value="Non-Smoker">Non-Smoker</option>
+			 </select>
+			 </td></tr>
+
+			 <tr><td><font size="" color="#000080">Alcohol&nbsp;Drinking</b></td>
+			 <td><select name="t7">
+				<option>-</option>
+			 <option value="Addicted">Addicted</option>
+			 <option value="Never">Never</option>
+			 </select>
+			 </td></tr>
+
+			 <tr><td><font size="" color="#000080">Gender</b></td>
+			 <td><select name="t8">
+				<option>-</option>
+			 <option value="Male">Male</option>
+			 <option value="Female">Female</option>
+			 </select>
+			 </td></tr>
+
+			 <tr><td><font size="" color="#000080">Age</b></td><td><input type="text" name="t9" style="font-family: Comic Sans MS" size="15"/></td></tr>
+
+			
+			<tr><td></td><td><input type="submit" value="Submit" style="background-color: #4CAF50; 
+				color: white; 
+				font-family: Comic Sans MS;
+				font-size: 16px; 
+				padding: 10px 20px; 
+				border: none; 
+				border-radius: 5px; 
+				cursor: pointer;
+				margin: 10px;">
+			</td>
+
+			</table>
+				</div>	
+					
+				</div>
+				
+	</body>
+</html>

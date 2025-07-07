@@ -1,0 +1,215 @@
+Sno,Eating_Habits,Physical_Activity,BMI,Stress,Sleep,Smoking,Alcohol,Gender,Age,CVD,DM,CKD,COPD,PCOD,HLD,HTN,LC,AD
+1,Overeating,Irregular Excercise,Increased,No,Sound,Non-Smoker,Never,Female,44,no,no,no,no,yes,no,no,no,no
+2,Eat's too quickly,Irregular Excercise,Decreased,No,Disturbed,Non-Smoker,Never,Male,55,no,yes,no,no,no,no,no,no,no
+3,Excellent,Irregular Excercise,Normal,Yes,Late-Night,Occasional Smoker,Sometimes,Male,62,yes,yes,no,yes,no,no,no,no,no
+4,Eat's too quickly,Regular Excercise,Increased,Yes,Sound,Non-Smoker,Never,Female,58,no,yes,no,no,yes,no,yes,yes,no
+5,Eat's too quickly,Irregular Excercise,Decreased,No,Disturbed,Occasional Smoker,Never,Male,67,yes,yes,no,yes,no,no,yes,yes,no
+6,Eat's too quickly,Irregular Excercise,Normal,Yes,Late-Night,Non-Smoker,Never,Female,75,yes,yes,no,no,yes,no,yes,no,yes
+7,Excellent,Regular Excercise,Increased,No,Sound,Occasional Smoker,Sometimes,Male,71,no,no,no,no,no,no,no,yes,no
+8,Eat's too quickly,Irregular Excercise,Decreased,Yes,Disturbed,Occasional Smoker,Sometimes,Female,42,yes,yes,no,yes,yes,no,yes,yes,no
+9,Eat's too quickly,NoExcercise,Normal,No,Late-Night,Non-Smoker,Never,Female,72,yes,yes,no,no,yes,no,no,no,no
+10,Excellent,Irregular Excercise,Increased,No,Sound,Non-Smoker,Never,Male,46,no,no,no,no,no,no,no,no,no
+11,Eat's too quickly,Irregular Excercise,Decreased,Yes,Disturbed,Non-Smoker,Never,Male,80,yes,yes,no,no,no,no,yes,no,yes
+12,Overeating,Irregular Excercise,Normal,Yes,Late-Night,Occasional Smoker,Never,Female,48,yes,yes,no,yes,yes,yes,yes,yes,no
+13,Emotional Eating,Irregular Excercise,Increased,No,Sound,Occasional Smoker,Sometimes,Male,57,no,no,no,yes,no,no,no,yes,no
+14,Eat's too quickly,Regular Excercise,Decreased,Yes,Disturbed,Non-Smoker,Never,Female,49,no,yes,no,no,yes,no,no,no,no
+15,Eat's too quickly,Irregular Excercise,Normal,No,Late-Night,Non-Smoker,Never,Male,71,yes,yes,no,no,no,no,no,no,no
+16,Eat's too quickly,Irregular Excercise,Increased,Yes,Sound,Non-Smoker,Never,Female,59,yes,yes,no,no,yes,no,no,no,no
+17,Eat's too quickly,Regular Excercise,Decreased,No,Disturbed,Non-Smoker,Never,Female,57,no,no,no,no,yes,no,no,no,no
+18,Overeating,Irregular Excercise,Normal,No,Late-Night,Non-Smoker,Sometimes,Male,68,yes,yes,no,no,no,no,no,no,no
+19,Eat's too quickly,Irregular Excercise,Increased,Yes,Sound,Chain Smoker,Sometimes,Male,64,yes,yes,no,yes,no,yes,yes,yes,no
+20,Excellent,Regular Excercise,Decreased,Yes,Disturbed,Non-Smoker,Never,Female,39,no,no,no,no,yes,no,no,no,no
+21,Excellent,Regular Excercise,Normal,No,Late-Night,Non-Smoker,Never,Male,33,no,no,no,no,no,no,no,no,no
+22,Eat's too quickly,Irregular Excercise,Increased,Yes,Sound,Non-Smoker,Sometimes,Female,74,yes,yes,no,no,yes,no,no,no,yes
+23,Overeating,Irregular Excercise,Decreased,No,Disturbed,Occasional Smoker,Sometimes,Male,48,yes,yes,no,yes,no,no,yes,yes,no
+24,Overeating,Irregular Excercise,Normal,Yes,Late-Night,Non-Smoker,Never,Female,66,yes,yes,no,no,yes,no,yes,no,yes
+25,Excellent,Regular Excercise,Increased,No,Sound,Non-Smoker,Never,Female,41,no,no,no,no,no,no,no,no,no
+26,Excellent,Irregular Excercise,Decreased,No,Disturbed,Occasional Smoker,Sometimes,Male,41,no,no,no,yes,no,no,no,yes,no
+27,Excellent,Irregular Excercise,Normal,Yes,Late-Night,Chain Smoker,Addicted,Male,41,yes,no,no,yes,no,no,yes,yes,no
+28,Excellent,NoExcercise,Increased,Yes,Sound,Non-Smoker,Never,Female,41,no,no,no,no,yes,no,no,no,no
+29,Excellent,NoExcercise,Decreased,No,Disturbed,Occasional Smoker,Sometimes,Male,41,no,no,no,yes,no,no,no,yes,no
+30,Excellent,Regular Excercise,Normal,Yes,Late-Night,Chain Smoker,Addicted,Female,42,yes,no,no,no,no,no,yes,yes,no
+31,Excellent,Irregular Excercise,Increased,No,Sound,Non-Smoker,Never,Male,42,no,no,no,no,no,no,no,no,no
+32,Excellent,Irregular Excercise,Decreased,Yes,Disturbed,Occasional Smoker,Sometimes,Female,42,yes,no,no,yes,yes,no,yes,yes,no
+33,Excellent,NoExcercise,Normal,No,Late-Night,Chain Smoker,Addicted,Female,42,yes,no,no,yes,no,no,yes,yes,no
+34,Excellent,NoExcercise,Increased,No,Sound,Non-Smoker,Never,Male,42,no,no,no,no,no,no,no,no,no
+35,Eat's too quickly,Regular Excercise,Decreased,Yes,Disturbed,Occasional Smoker,Sometimes,Male,43,yes,no,no,no,no,no,yes,yes,no
+36,Eat's too quickly,Irregular Excercise,Normal,Yes,Late-Night,Chain Smoker,Addicted,Female,43,yes,yes,no,yes,yes,yes,yes,yes,no
+37,Eat's too quickly,Irregular Excercise,Increased,No,Sound,Non-Smoker,Never,Male,43,no,no,no,no,no,no,no,no,no
+38,Eat's too quickly,NoExcercise,Decreased,Yes,Disturbed,Occasional Smoker,Sometimes,Female,43,yes,yes,no,yes,yes,yes,yes,yes,no
+39,Eat's too quickly,NoExcercise,Normal,No,Late-Night,Chain Smoker,Addicted,Male,43,yes,no,no,yes,no,yes,yes,yes,no
+40,Eat's too quickly,Regular Excercise,Increased,Yes,Sound,Non-Smoker,Never,Female,44,no,no,no,no,yes,no,no,no,no
+41,Eat's too quickly,Irregular Excercise,Decreased,No,Disturbed,Occasional Smoker,Sometimes,Female,44,yes,no,no,yes,yes,no,yes,yes,no
+42,Eat's too quickly,Irregular Excercise,Normal,No,Late-Night,Chain Smoker,Addicted,Male,44,yes,no,no,yes,no,yes,yes,yes,no
+43,Eat's too quickly,NoExcercise,Increased,Yes,Sound,Non-Smoker,Never,Male,44,yes,yes,no,no,no,no,no,yes,no
+44,Eat's too quickly,NoExcercise,Decreased,Yes,Disturbed,Occasional Smoker,Sometimes,Female,44,yes,yes,no,yes,yes,no,yes,yes,no
+45,Overeating,Regular Excercise,Normal,No,Late-Night,Chain Smoker,Addicted,Male,45,yes,no,no,no,no,no,yes,no,no
+46,Overeating,Irregular Excercise,Increased,Yes,Sound,Non-Smoker,Never,Female,45,yes,yes,no,no,yes,no,no,no,no
+47,Overeating,Irregular Excercise,Decreased,No,Disturbed,Occasional Smoker,Sometimes,Male,45,yes,no,no,yes,no,no,yes,yes,no
+48,Overeating,NoExcercise,Normal,Yes,Late-Night,Chain Smoker,Addicted,Female,45,yes,yes,no,yes,yes,yes,yes,yes,no
+49,Overeating,NoExcercise,Increased,No,Sound,Non-Smoker,Never,Female,45,no,no,no,no,no,no,no,no,no
+50,Overeating,Regular Excercise,Decreased,No,Disturbed,Occasional Smoker,Sometimes,Male,46,no,no,no,no,no,no,no,yes,no
+51,Overeating,Irregular Excercise,Normal,Yes,Late-Night,Chain Smoker,Addicted,Male,46,yes,yes,no,yes,no,yes,yes,yes,no
+52,Overeating,Irregular Excercise,Increased,Yes,Sound,Non-Smoker,Never,Female,46,yes,yes,no,no,yes,no,no,no,no
+53,Overeating,NoExcercise,Decreased,No,Disturbed,Occasional Smoker,Sometimes,Male,46,yes,yes,no,yes,no,no,yes,yes,no
+54,Overeating,NoExcercise,Normal,Yes,Late-Night,Chain Smoker,Addicted,Female,46,yes,yes,no,yes,yes,yes,yes,yes,no
+55,Emotional Eating,Regular Excercise,Increased,No,Sound,Non-Smoker,Never,Male,47,no,no,no,no,no,no,no,no,no
+56,Emotional Eating,Irregular Excercise,Decreased,Yes,Disturbed,Occasional Smoker,Sometimes,Female,47,yes,yes,no,yes,yes,no,yes,yes,yes
+57,Emotional Eating,Irregular Excercise,Normal,No,Late-Night,Chain Smoker,Addicted,Female,47,yes,no,no,yes,no,no,yes,yes,no
+58,Emotional Eating,NoExcercise,Increased,No,Sound,Non-Smoker,Never,Male,47,no,no,no,no,no,no,no,no,no
+59,Emotional Eating,NoExcercise,Decreased,Yes,Disturbed,Occasional Smoker,Sometimes,Male,47,yes,no,no,yes,no,no,yes,yes,yes
+60,Emotional Eating,Regular Excercise,Normal,Yes,Late-Night,Chain Smoker,Addicted,Female,48,yes,no,no,no,yes,no,yes,yes,no
+61,Emotional Eating,Irregular Excercise,Increased,No,Sound,Non-Smoker,Never,Male,48,no,no,no,no,no,no,yes,no,no
+62,Emotional Eating,Irregular Excercise,Decreased,Yes,Disturbed,Occasional Smoker,Sometimes,Female,48,yes,yes,no,yes,yes,no,yes,yes,yes
+63,Emotional Eating,NoExcercise,Normal,No,Late-Night,Chain Smoker,Addicted,Male,48,yes,no,no,yes,no,no,yes,yes,no
+64,Emotional Eating,NoExcercise,Increased,Yes,Sound,Non-Smoker,Never,Female,48,no,yes,no,no,yes,no,no,no,yes
+65,Night time Snacking,Regular Excercise,Decreased,No,Disturbed,Occasional Smoker,Sometimes,Male,48,no,no,no,no,no,no,no,yes,no
+66,Night time Snacking,Irregular Excercise,Normal,Yes,Late-Night,Chain Smoker,Addicted,Male,49,yes,yes,no,yes,no,yes,yes,yes,no
+67,Night time Snacking,Irregular Excercise,Increased,No,Sound,Non-Smoker,Never,Female,49,no,yes,no,no,yes,no,yes,no,no
+68,Night time Snacking,NoExcercise,Decreased,Yes,Disturbed,Occasional Smoker,Sometimes,Male,49,yes,yes,no,yes,no,no,yes,yes,no
+69,Night time Snacking,NoExcercise,Normal,No,Late-Night,Chain Smoker,Addicted,Female,49,yes,yes,no,yes,yes,yes,yes,yes,no
+70,Night time Snacking,Regular Excercise,Increased,Yes,Sound,Non-Smoker,Never,Male,49,no,yes,no,no,no,no,no,no,no
+71,Night time Snacking,Irregular Excercise,Decreased,No,Disturbed,Occasional Smoker,Sometimes,Female,50,yes,yes,no,yes,yes,no,yes,yes,no
+72,Night time Snacking,Irregular Excercise,Normal,Yes,Late-Night,Chain Smoker,Addicted,Female,50,yes,yes,no,yes,yes,yes,yes,yes,no
+73,Night time Snacking,NoExcercise,Increased,No,Sound,Non-Smoker,Never,Male,50,no,yes,no,no,no,no,no,no,no
+74,Night time Snacking,NoExcercise,Decreased,Yes,Disturbed,Occasional Smoker,Sometimes,Male,50,yes,yes,no,yes,no,no,yes,yes,no
+75,Excellent,Regular Excercise,Normal,No,Late-Night,Chain Smoker,Addicted,Female,50,yes,no,no,no,no,no,no,yes,no
+76,Eat's too quickly,Regular Excercise,Increased,Yes,Sound,Non-Smoker,Never,Male,51,no,yes,no,no,no,no,no,no,no
+77,Overeating,Regular Excercise,Decreased,No,Disturbed,Occasional Smoker,Sometimes,Female,51,no,no,no,no,no,no,no,yes,no
+78,Emotional Eating,Regular Excercise,Normal,Yes,Late-Night,Chain Smoker,Addicted,Male,51,yes,no,no,no,yes,no,yes,yes,no
+79,Night time Snacking,Regular Excercise,Increased,No,Sound,Non-Smoker,Never,Female,51,no,no,no,no,no,no,no,no,no
+80,Excellent,Regular Excercise,Decreased,Yes,Disturbed,Occasional Smoker,Sometimes,Female,51,no,no,no,no,yes,no,no,yes,no
+81,Eat's too quickly,Regular Excercise,Normal,No,Late-Night,Chain Smoker,Addicted,Male,52,yes,no,no,no,no,no,yes,yes,no
+82,Overeating,Regular Excercise,Increased,Yes,Sound,Non-Smoker,Never,Male,52,no,yes,no,no,no,no,no,no,no
+83,Emotional Eating,Regular Excercise,Decreased,No,Disturbed,Occasional Smoker,Sometimes,Female,52,no,no,no,no,yes,no,no,yes,no
+84,Night time Snacking,Regular Excercise,Normal,Yes,Late-Night,Chain Smoker,Addicted,Male,52,yes,yes,no,no,no,no,yes,yes,no
+85,Excellent,Irregular Excercise,Increased,No,Sound,Non-Smoker,Never,Female,52,no,no,no,no,no,no,no,no,no
+86,Eat's too quickly,Irregular Excercise,Decreased,Yes,Disturbed,Occasional Smoker,Sometimes,Male,53,yes,yes,no,yes,no,no,yes,yes,no
+87,Overeating,Irregular Excercise,Normal,No,Late-Night,Chain Smoker,Addicted,Female,53,yes,yes,no,yes,no,yes,yes,yes,no
+88,Emotional Eating,Irregular Excercise,Increased,Yes,Sound,Non-Smoker,Never,Female,53,no,yes,no,no,yes,no,yes,no,yes
+89,Night time Snacking,Irregular Excercise,Decreased,No,Disturbed,Occasional Smoker,Sometimes,Male,53,yes,yes,no,yes,no,no,yes,yes,no
+90,Excellent,Irregular Excercise,Normal,Yes,Late-Night,Chain Smoker,Addicted,Male,53,yes,yes,no,yes,no,no,yes,yes,no
+91,Eat's too quickly,Irregular Excercise,Increased,No,Sound,Non-Smoker,Never,Female,54,no,yes,no,no,yes,no,no,no,no
+92,Overeating,Irregular Excercise,Decreased,Yes,Disturbed,Occasional Smoker,Sometimes,Male,54,yes,yes,no,yes,no,no,yes,yes,no
+93,Emotional Eating,Irregular Excercise,Normal,No,Late-Night,Chain Smoker,Addicted,Female,54,yes,no,no,yes,yes,no,yes,yes,no
+84,Night time Snacking,Irregular Excercise,Increased,Yes,Sound,Non-Smoker,Never,Male,54,yes,yes,no,no,no,no,yes,no,no
+95,Excellent,Irregular Excercise,Decreased,No,Disturbed,Occasional Smoker,Sometimes,Female,54,no,no,no,yes,yes,no,no,yes,no
+96,Eat's too quickly,Irregular Excercise,Normal,Yes,Late-Night,Chain Smoker,Addicted,Female,55,yes,yes,no,yes,yes,yes,yes,yes,no
+97,Overeating,Irregular Excercise,Increased,No,Sound,Non-Smoker,Never,Male,55,no,yes,no,no,no,no,no,no,no
+98,Emotional Eating,Irregular Excercise,Decreased,Yes,Disturbed,Occasional Smoker,Sometimes,Male,55,yes,yes,no,yes,no,no,yes,yes,yes
+99,Night time Snacking,Irregular Excercise,Normal,No,Late-Night,Chain Smoker,Addicted,Female,55,yes,yes,no,yes,yes,yes,yes,yes,no
+100,Excellent,Irregular Excercise,Increased,Yes,Sound,Non-Smoker,Never,Male,55,no,yes,no,no,no,no,no,no,no
+101,Eat's too quickly,Irregular Excercise,Decreased,No,Disturbed,Occasional Smoker,Sometimes,Female,56,yes,yes,no,yes,yes,no,yes,yes,no
+102,Overeating,Irregular Excercise,Normal,Yes,Late-Night,Chain Smoker,Addicted,Male,56,yes,yes,no,yes,no,yes,yes,yes,no
+103,Emotional Eating,Irregular Excercise,Increased,No,Sound,Non-Smoker,Never,Female,56,no,no,no,no,yes,no,no,no,no
+104,Night time Snacking,Irregular Excercise,Decreased,Yes,Disturbed,Occasional Smoker,Sometimes,Female,56,yes,yes,no,yes,yes,no,yes,yes,no
+105,Excellent,NoExcercise,Normal,No,Late-Night,Chain Smoker,Addicted,Male,56,yes,no,no,yes,no,no,yes,yes,no
+106,Eat's too quickly,NoExcercise,Increased,Yes,Sound,Non-Smoker,Never,Male,57,yes,yes,no,no,no,no,yes,no,no
+107,Overeating,NoExcercise,Decreased,No,Disturbed,Occasional Smoker,Sometimes,Female,57,yes,yes,no,yes,yes,no,yes,yes,no
+108,Emotional Eating,NoExcercise,Normal,Yes,Late-Night,Chain Smoker,Addicted,Male,57,yes,yes,no,yes,no,no,yes,yes,yes
+109,Night time Snacking,NoExcercise,Increased,No,Sound,Non-Smoker,Never,Female,57,no,yes,no,no,yes,no,no,no,no
+110,Excellent,NoExcercise,Decreased,Yes,Disturbed,Occasional Smoker,Sometimes,Male,57,no,yes,no,yes,no,no,yes,yes,no
+111,Eat's too quickly,NoExcercise,Normal,No,Late-Night,Chain Smoker,Addicted,Female,57,yes,yes,no,yes,yes,yes,yes,yes,no
+112,Overeating,NoExcercise,Increased,Yes,Sound,Non-Smoker,Never,Female,58,yes,yes,no,no,yes,no,yes,no,no
+113,Emotional Eating,NoExcercise,Decreased,No,Disturbed,Occasional Smoker,Sometimes,Male,58,no,no,no,yes,no,no,yes,yes,no
+114,Night time Snacking,NoExcercise,Normal,Yes,Late-Night,Chain Smoker,Addicted,Male,58,yes,yes,no,yes,no,yes,yes,yes,no
+115,Excellent,NoExcercise,Increased,No,Sound,Non-Smoker,Never,Female,58,no,no,no,no,no,no,no,no,no
+116,Eat's too quickly,NoExcercise,Decreased,Yes,Disturbed,Occasional Smoker,Sometimes,Male,58,yes,yes,no,yes,no,no,yes,yes,no
+117,Overeating,NoExcercise,Normal,No,Late-Night,Chain Smoker,Addicted,Female,59,yes,yes,no,yes,yes,yes,yes,yes,no
+118,Emotional Eating,NoExcercise,Increased,Yes,Sound,Non-Smoker,Never,Male,59,no,yes,no,no,no,no,yes,no,yes
+119,Night time Snacking,NoExcercise,Decreased,No,Disturbed,Occasional Smoker,Sometimes,Female,59,yes,yes,no,yes,yes,no,no,yes,no
+120,Excellent,NoExcercise,Normal,Yes,Late-Night,Chain Smoker,Addicted,Female,59,yes,yes,no,yes,yes,no,yes,yes,no
+121,Eat's too quickly,NoExcercise,Increased,No,Sound,Non-Smoker,Never,Male,59,no,yes,no,no,no,no,no,no,no
+122,Overeating,NoExcercise,Decreased,Yes,Disturbed,Occasional Smoker,Sometimes,Male,60,yes,yes,no,yes,no,no,yes,yes,no
+123,Emotional Eating,NoExcercise,Normal,No,Late-Night,Chain Smoker,Addicted,Female,60,yes,no,no,yes,yes,no,yes,yes,no
+124,Night time Snacking,NoExcercise,Increased,Yes,Sound,Non-Smoker,Never,Male,60,yes,yes,no,no,no,no,yes,no,no
+125,Excellent,Regular Excercise,Decreased,No,Disturbed,Occasional Smoker,Sometimes,Male,60,no,no,no,no,no,no,no,yes,no
+126,Eat's too quickly,Irregular Excercise,Normal,Yes,Late-Night,Chain Smoker,Addicted,Female,60,yes,yes,no,yes,yes,yes,yes,yes,no
+127,Overeating,Irregular Excercise,Increased,No,Sound,Non-Smoker,Never,Male,61,no,yes,no,no,no,no,no,no,no
+128,Emotional Eating,NoExcercise,Decreased,Yes,Disturbed,Occasional Smoker,Sometimes,Female,61,yes,yes,no,yes,yes,no,yes,yes,yes
+129,Night time Snacking,NoExcercise,Normal,No,Late-Night,Chain Smoker,Addicted,Male,61,yes,yes,no,yes,no,yes,yes,yes,no
+130,Excellent,Regular Excercise,Increased,Yes,Sound,Non-Smoker,Never,Female,61,no,no,no,no,no,no,no,no,no
+131,Eat's too quickly,Irregular Excercise,Decreased,No,Disturbed,Occasional Smoker,Sometimes,Female,61,yes,yes,no,yes,yes,no,yes,yes,no
+132,Overeating,Irregular Excercise,Normal,Yes,Late-Night,Chain Smoker,Addicted,Male,62,yes,yes,no,yes,no,yes,yes,yes,no
+133,Emotional Eating,NoExcercise,Increased,No,Sound,Non-Smoker,Never,Male,62,no,no,no,no,no,no,no,no,no
+134,Night time Snacking,NoExcercise,Decreased,Yes,Disturbed,Occasional Smoker,Sometimes,Female,62,yes,yes,no,yes,yes,no,yes,yes,no
+135,Excellent,Regular Excercise,Normal,No,Late-Night,Chain Smoker,Addicted,Male,62,yes,yes,no,no,no,no,yes,yes,no
+136,Eat's too quickly,Irregular Excercise,Increased,Yes,Sound,Non-Smoker,Never,Female,62,yes,yes,no,no,yes,no,yes,no,no
+137,Overeating,Irregular Excercise,Decreased,No,Disturbed,Occasional Smoker,Sometimes,Male,63,yes,yes,no,yes,no,no,yes,yes,no
+138,Emotional Eating,NoExcercise,Normal,Yes,Late-Night,Chain Smoker,Addicted,Female,63,yes,yes,no,yes,yes,no,yes,yes,yes
+139,Night time Snacking,NoExcercise,Increased,No,Sound,Non-Smoker,Never,Female,63,no,yes,no,no,yes,no,no,no,no
+140,Excellent,Regular Excercise,Decreased,Yes,Disturbed,Occasional Smoker,Sometimes,Male,63,no,no,no,no,no,no,no,yes,no
+141,Eat's too quickly,Irregular Excercise,Normal,No,Late-Night,Chain Smoker,Addicted,Male,63,yes,yes,no,yes,no,yes,yes,yes,no
+142,Overeating,Irregular Excercise,Increased,Yes,Sound,Non-Smoker,Never,Female,64,yes,yes,no,no,yes,no,yes,no,no
+143,Emotional Eating,NoExcercise,Decreased,No,Disturbed,Occasional Smoker,Sometimes,Male,64,no,no,no,yes,no,no,yes,yes,no
+144,Night time Snacking,NoExcercise,Normal,Yes,Late-Night,Chain Smoker,Addicted,Female,64,yes,yes,no,yes,yes,yes,yes,yes,no
+145,Excellent,Regular Excercise,Increased,No,Sound,Non-Smoker,Never,Male,64,no,no,no,no,no,no,no,no,no
+146,Eat's too quickly,Irregular Excercise,Decreased,Yes,Disturbed,Occasional Smoker,Sometimes,Female,64,yes,yes,no,yes,yes,no,yes,yes,no
+147,Overeating,Irregular Excercise,Normal,No,Late-Night,Chain Smoker,Addicted,Female,65,yes,yes,no,yes,yes,yes,yes,yes,no
+148,Emotional Eating,NoExcercise,Increased,Yes,Sound,Non-Smoker,Never,Male,65,no,yes,no,no,no,no,yes,no,yes
+149,Night time Snacking,NoExcercise,Decreased,No,Disturbed,Occasional Smoker,Sometimes,Male,65,yes,yes,no,yes,no,no,yes,yes,no
+150,Excellent,Regular Excercise,Normal,Yes,Late-Night,Chain Smoker,Addicted,Female,65,yes,no,no,no,no,no,yes,yes,no
+151,Eat's too quickly,Irregular Excercise,Increased,No,Sound,Non-Smoker,Never,Male,65,no,yes,no,no,no,no,no,no,no
+152,Overeating,Irregular Excercise,Decreased,Yes,Disturbed,Occasional Smoker,Sometimes,Female,66,yes,yes,no,yes,yes,no,yes,yes,yes
+153,Emotional Eating,NoExcercise,Normal,No,Late-Night,Chain Smoker,Addicted,Male,66,yes,no,no,yes,no,no,yes,yes,yes
+154,Night time Snacking,NoExcercise,Increased,Yes,Sound,Non-Smoker,Never,Female,66,yes,yes,no,no,yes,no,yes,no,yes
+155,Excellent,Regular Excercise,Decreased,No,Disturbed,Occasional Smoker,Sometimes,Female,66,no,no,no,no,no,no,no,yes,no
+156,Eat's too quickly,Irregular Excercise,Normal,Yes,Late-Night,Chain Smoker,Addicted,Male,66,yes,yes,no,yes,no,yes,yes,yes,yes
+157,Overeating,Irregular Excercise,Increased,No,Sound,Non-Smoker,Never,Male,67,yes,yes,no,no,no,no,no,no,no
+158,Emotional Eating,NoExcercise,Decreased,Yes,Disturbed,Occasional Smoker,Sometimes,Female,67,yes,yes,no,yes,yes,no,yes,yes,yes
+159,Night time Snacking,NoExcercise,Normal,No,Late-Night,Chain Smoker,Addicted,Male,67,yes,yes,no,yes,no,yes,yes,yes,no
+160,Excellent,Regular Excercise,Increased,Yes,Sound,Non-Smoker,Never,Female,67,no,no,no,no,no,no,no,no,no
+161,Eat's too quickly,Irregular Excercise,Decreased,No,Disturbed,Occasional Smoker,Sometimes,Male,67,yes,yes,no,yes,no,no,yes,yes,no
+162,Overeating,Irregular Excercise,Normal,Yes,Late-Night,Chain Smoker,Addicted,Female,68,yes,yes,no,yes,yes,yes,yes,yes,yes
+163,Emotional Eating,NoExcercise,Increased,No,Sound,Non-Smoker,Never,Female,68,no,no,no,no,yes,no,no,no,yes
+164,Night time Snacking,NoExcercise,Decreased,Yes,Disturbed,Occasional Smoker,Sometimes,Male,68,yes,yes,no,yes,no,no,yes,yes,yes
+165,Excellent,Regular Excercise,Normal,No,Late-Night,Chain Smoker,Addicted,Male,68,yes,no,no,no,no,no,yes,yes,no
+166,Eat's too quickly,Irregular Excercise,Increased,Yes,Sound,Non-Smoker,Never,Female,68,yes,yes,no,no,yes,no,yes,no,yes
+167,Overeating,Irregular Excercise,Decreased,No,Disturbed,Occasional Smoker,Sometimes,Male,69,yes,yes,no,yes,no,no,yes,yes,no
+168,Emotional Eating,NoExcercise,Normal,Yes,Late-Night,Chain Smoker,Addicted,Female,69,yes,yes,no,yes,yes,no,yes,yes,yes
+169,Night time Snacking,NoExcercise,Increased,No,Sound,Non-Smoker,Never,Male,69,yes,yes,no,no,no,no,no,no,no
+170,Excellent,Regular Excercise,Decreased,Yes,Disturbed,Occasional Smoker,Sometimes,Female,69,yes,no,no,no,yes,no,no,yes,no
+171,Eat's too quickly,Irregular Excercise,Normal,No,Late-Night,Chain Smoker,Addicted,Female,69,yes,yes,no,yes,yes,yes,yes,yes,no
+172,Overeating,Irregular Excercise,Increased,Yes,Sound,Non-Smoker,Never,Male,70,yes,yes,no,no,no,no,yes,no,yes
+173,Emotional Eating,NoExcercise,Decreased,No,Disturbed,Occasional Smoker,Sometimes,Male,70,yes,no,no,yes,no,no,yes,yes,yes
+174,Night time Snacking,NoExcercise,Normal,Yes,Late-Night,Chain Smoker,Addicted,Female,70,yes,yes,no,yes,yes,yes,yes,yes,yes
+175,Excellent,Regular Excercise,Increased,,Disturbed,Occasional Smoker,Addicted,Female,70,yes,no,yes,no,no,no,yes,no,no
+176,Eat's too quickly,Irregular Excercise,Increased,No,Disturbed,Occasional Smoker,Addicted,Male,70,yes,yes,yes,yes,no,yes,yes,yes,yes
+177,Overeating,NoExcercise,Increased,Yes,Disturbed,Occasional Smoker,Addicted,Female,71,yes,yes,yes,yes,yes,yes,yes,yes,yes
+178,Emotional Eating,Regular Excercise,Increased,Yes,Disturbed,Occasional Smoker,Addicted,Male,71,yes,yes,yes,no,no,no,yes,yes,yes
+179,Night time Snacking,Irregular Excercise,Increased,No,Disturbed,Occasional Smoker,Addicted,Female,71,yes,yes,yes,yes,yes,yes,yes,yes,yes
+180,Excellent,NoExcercise,Increased,Yes,Disturbed,Occasional Smoker,Addicted,Female,71,yes,yes,yes,yes,yes,no,yes,yes,yes
+181,Eat's too quickly,Regular Excercise,Increased,No,Disturbed,Occasional Smoker,Addicted,Male,71,yes,yes,yes,no,no,no,yes,yes,no
+182,Overeating,Irregular Excercise,Increased,Yes,Disturbed,Occasional Smoker,Addicted,Male,72,yes,yes,yes,yes,no,yes,yes,yes,yes
+183,Emotional Eating,NoExcercise,Increased,,Disturbed,Occasional Smoker,Addicted,Female,72,yes,yes,yes,yes,yes,no,yes,yes,yes
+184,Night time Snacking,Regular Excercise,Increased,No,Disturbed,Occasional Smoker,Addicted,Female,72,yes,yes,yes,no,yes,no,yes,yes,no
+185,Excellent,Irregular Excercise,Increased,Yes,Disturbed,Chain Smoker,Addicted,Male,72,yes,yes,yes,yes,no,no,yes,yes,yes
+186,Eat's too quickly,NoExcercise,Increased,Yes,Disturbed,Chain Smoker,Addicted,Female,72,yes,yes,yes,yes,yes,yes,yes,yes,yes
+187,Overeating,Regular Excercise,Increased,No,Disturbed,Chain Smoker,Addicted,Male,73,yes,yes,yes,no,no,no,yes,yes,no
+188,Emotional Eating,Irregular Excercise,Increased,Yes,Disturbed,Chain Smoker,Addicted,Female,73,yes,yes,yes,yes,yes,no,yes,yes,yes
+189,Night time Snacking,NoExcercise,Increased,No,Disturbed,Chain Smoker,Addicted,Female,73,yes,yes,yes,yes,yes,yes,yes,yes,yes
+190,Excellent,Regular Excercise,Increased,Yes,Disturbed,Chain Smoker,Addicted,Male,73,yes,yes,yes,no,no,no,yes,yes,yes
+191,Eat's too quickly,Irregular Excercise,Increased,,Disturbed,Chain Smoker,Addicted,Male,73,yes,yes,yes,yes,no,yes,yes,yes,yes
+192,Overeating,NoExcercise,Increased,No,Disturbed,Chain Smoker,Addicted,Female,74,yes,yes,yes,yes,yes,yes,yes,yes,yes
+193,Emotional Eating,Regular Excercise,Increased,Yes,Disturbed,Chain Smoker,Addicted,Female,74,yes,yes,yes,no,yes,no,yes,yes,yes
+194,Night time Snacking,Irregular Excercise,Increased,Yes,Disturbed,Chain Smoker,Addicted,Male,74,yes,yes,yes,yes,no,yes,yes,yes,yes
+195,Excellent,NoExcercise,Increased,No,Late-Night,Occasional Smoker,Addicted,Female,74,yes,yes,yes,yes,yes,no,yes,yes,yes
+196,Eat's too quickly,Regular Excercise,Increased,Yes,Late-Night,Occasional Smoker,Addicted,Male,74,yes,yes,yes,no,no,no,yes,yes,yes
+197,Overeating,Irregular Excercise,Increased,No,Late-Night,Occasional Smoker,Addicted,Female,75,yes,yes,yes,yes,yes,yes,yes,yes,yes
+198,Emotional Eating,NoExcercise,Increased,Yes,Late-Night,Occasional Smoker,Addicted,Female,75,yes,yes,yes,yes,yes,no,yes,yes,yes
+199,Night time Snacking,Regular Excercise,Increased,,Late-Night,Occasional Smoker,Addicted,Male,75,yes,yes,yes,no,no,no,yes,yes,no
+200,Excellent,Irregular Excercise,Increased,No,Late-Night,Occasional Smoker,Addicted,Male,75,yes,yes,yes,yes,no,no,yes,yes,yes
+201,Eat's too quickly,NoExcercise,Increased,Yes,Late-Night,Occasional Smoker,Addicted,Female,75,yes,yes,yes,yes,yes,yes,yes,yes,yes
+202,Overeating,Regular Excercise,Increased,Yes,Late-Night,Occasional Smoker,Addicted,Female,76,yes,yes,yes,no,yes,no,yes,yes,yes
+203,Emotional Eating,Irregular Excercise,Increased,No,Late-Night,Occasional Smoker,Addicted,Male,76,yes,yes,yes,yes,no,no,yes,yes,yes
+204,Night time Snacking,NoExcercise,Increased,Yes,Late-Night,Occasional Smoker,Addicted,Female,76,yes,yes,yes,yes,yes,yes,yes,yes,yes
+205,Excellent,Regular Excercise,Increased,No,Late-Night,Chain Smoker,Addicted,Male,76,yes,no,yes,no,no,no,yes,yes,no
+206,Eat's too quickly,Irregular Excercise,Increased,Yes,Late-Night,Chain Smoker,Addicted,Female,76,yes,yes,yes,yes,yes,yes,yes,yes,yes
+207,Overeating,NoExcercise,Increased,,Late-Night,Chain Smoker,Addicted,Female,77,yes,yes,yes,yes,yes,yes,yes,yes,yes
+208,Emotional Eating,Regular Excercise,Increased,No,Late-Night,Chain Smoker,Addicted,Male,77,yes,no,yes,no,no,no,yes,yes,yes
+209,Night time Snacking,Irregular Excercise,Increased,Yes,Late-Night,Chain Smoker,Addicted,Male,77,yes,yes,yes,yes,no,yes,yes,yes,yes
+210,Excellent,NoExcercise,Increased,Yes,Late-Night,Chain Smoker,Addicted,Female,77,yes,yes,yes,yes,yes,no,yes,yes,yes
+211,Eat's too quickly,Regular Excercise,Increased,No,Late-Night,Chain Smoker,Addicted,Female,77,yes,yes,yes,no,yes,no,yes,yes,no
+212,Overeating,Irregular Excercise,Increased,Yes,Late-Night,Chain Smoker,Addicted,Male,78,yes,yes,yes,yes,no,yes,yes,yes,yes
+213,Emotional Eating,NoExcercise,Increased,No,Late-Night,Chain Smoker,Addicted,Female,78,yes,yes,yes,yes,yes,no,yes,yes,yes
+214,Night time Snacking,Regular Excercise,Increased,Yes,Late-Night,Chain Smoker,Addicted,Male,78,yes,yes,yes,no,no,no,yes,yes,yes
