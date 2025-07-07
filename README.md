@@ -1,4 +1,4 @@
-# Lifestyle
+# Lifestyle Diseases Prediction
 
 A project focused on lifestyle management and improvement.
 
